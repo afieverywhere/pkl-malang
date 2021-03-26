@@ -1,0 +1,42 @@
+  body {
+      background-color: #2b0b00;
+  }
+  
+  .register1 {
+    margin: 125px auto;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: #979c9f;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+  .register2 {
+      font-size: 20px;
+  }
+  
+  .input-group {
+    margin: 10px 0px 10px 0px;
+  }
+ 
+  .input-group input {
+    height: 30px;
+    width: 90%;
+    padding: 5px 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+
+  .btn {
+    padding: 10px;
+    width: 75%;
+    font-size: 15px;
+    color: white;
+    background: #5F9EA0;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
